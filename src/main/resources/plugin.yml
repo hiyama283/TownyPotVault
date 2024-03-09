@@ -1,0 +1,7 @@
+name: TownyPotVault
+version: '${version}'
+main: me.hiyama283.townypotvault.TownyPotVault
+api-version: '1.20'
+commands:
+  potvault:
+    usage: How can i be homophobic when my bitch is gay

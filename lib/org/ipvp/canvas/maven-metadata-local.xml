@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ipvp</groupId>
+  <artifactId>canvas</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240301190404</lastUpdated>
+  </versioning>
+</metadata>
